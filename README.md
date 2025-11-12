@@ -6,6 +6,7 @@
 - Aiden Baker - alb921@pitt.edu - cleanliness_metric.ipynb
 
 **Canvas Group:** Final Project Group 34 
+
 **Datasets Used:**
 - [Smart Trash Containers](https://data.wprdc.org/dataset/smart-trash-containers)
 - [Parks Data](https://data.wprdc.org/dataset/parks)
