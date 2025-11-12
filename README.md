@@ -5,7 +5,7 @@
 - Brady Baker – brb435@pitt.edu – parks_metric.ipynb and trash_metric.ipynb
 - Aiden Baker - alb921@pitt.edu - cleanliness_metric.ipynb
 
-**Canvas Group:** Final Project Group ##
+**Canvas Group:** Final Project Group 34
 **Datasets Used:**
 - [Smart Trash Containers](https://data.wprdc.org/dataset/smart-trash-containers)
 - [Parks Data](https://data.wprdc.org/dataset/parks)
@@ -13,5 +13,5 @@
 
 **Project Overview:**
 We used data from the WPRDC to determine the most livable neighborhood in Pittsburgh
-based on air quality, safety, and green space. Our analysis shows that **________**
+based on air quality, safety, and green space. Our analysis shows that **East Liberty**
 ranks highest in overall livability.
