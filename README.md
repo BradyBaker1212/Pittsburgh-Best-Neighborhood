@@ -9,7 +9,7 @@
 **Datasets Used:**
 - [Daily AQI Data (WPRDC)](https://data.wprdc.org/dataset/allegheny-county-air-quality)
 - [Crime Data](https://data.wprdc.org/dataset/uniform-crime-reporting-data)
-- [Parks Data](https://data.wprdc.org/dataset/city-of-pittsburgh-parks)
+- [Parks Data](https://data.wprdc.org/dataset/parks)
 
 **Project Overview:**
 We used data from the WPRDC to determine the most livable neighborhood in Pittsburgh
